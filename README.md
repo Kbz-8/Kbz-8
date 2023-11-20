@@ -6,4 +6,4 @@ You can find more information about me [here](https://portfolio.kbz8.me).
 Currently I am working on Akel Engine which you can find [here](https://github.com/SpinWaves/Akel).
 
 ## Contact
-You can contact me at kbz_8.dev@akel-engine.com .
+You can contact me at contact@kbz8.me .
