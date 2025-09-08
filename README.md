@@ -1,4 +1,4 @@
-I am bald.
+I am no longer bald.
 
 https://portfolio.kbz8.me
 
